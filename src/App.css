@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: antiquewhite;
+  display: grid;
+  height: 100vh;
+  place-items: center;
+  background-image: url(img/bckgr.png);
+  background-size: auto 80vh;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+}
+
+#root {
+  margin-top: -10vh
+}
+
+form, .result {
+  text-align: center
+}
+
+.input {
+  padding: 10px;
+}
+
+.submit {
+  margin-left: 10px;
+  padding: 10px 20px
+}
+
+.result {
+  margin-bottom: 20px
+}
+
+.defaultmsg {
+  font-style: italic;
+  line-height: 4rem;
+}
+
+.romanNumeral {
+  font-size: 8rem;
+  font-family: serif
+}
+
+@media screen and (max-width: 600px) {
+  .romanNumeral {
+    font-size: 20vw;
+  }
+  .defaultmsg {
+    line-height: 10vw;
+  }
+}
