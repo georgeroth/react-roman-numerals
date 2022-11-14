@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-roman-numerals/static/css/main.dff79d3b.css",
+    "main.js": "/react-roman-numerals/static/js/main.fade87a4.js",
+    "static/media/bckgr.png": "/react-roman-numerals/static/media/bckgr.cf124eb3f83092b28caa.png",
+    "index.html": "/react-roman-numerals/index.html",
+    "main.dff79d3b.css.map": "/react-roman-numerals/static/css/main.dff79d3b.css.map",
+    "main.fade87a4.js.map": "/react-roman-numerals/static/js/main.fade87a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dff79d3b.css",
+    "static/js/main.fade87a4.js"
+  ]
+}
